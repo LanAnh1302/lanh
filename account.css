@@ -1,0 +1,55 @@
+*{
+    box-sizing: border-box;
+}
+#wrapper{
+    background-image: url("images/bg1.jpg");
+    background-size: contain;
+    width: 800px;
+    margin: 0px auto;
+    border: 1px solid rgb(240, 230, 216);
+    padding: 238px 120px;
+
+}
+.wp-header h2{
+    text-align: center;
+    padding-top: 165px;
+    padding-bottom: 10px;
+    color: rgb(210, 175, 89);
+}
+.wp-body{
+    background-color: rgb(234, 220, 202);
+    padding-top: 20px;
+    padding-left: 20px;
+}
+.detail-login{
+    border: 3px solid rgb(238, 189, 114);
+    display: flex;
+    width: 150px;
+    justify-content: center;
+
+}
+.login{
+ 
+}
+.profile{
+    border: 3px solid rgb(235, 180, 96);
+    display: flex;
+    width: 150px;
+    justify-content: center;
+}
+.account{
+ 
+}
+.contact-information{
+    border: 3px solid rgb(235, 180, 96);
+    display: flex;
+    width: 180px;
+    justify-content: center;
+}
+.contact{
+   
+}
+.wp-footer{
+    text-align: center;
+    padding-bottom: 5px;
+}
