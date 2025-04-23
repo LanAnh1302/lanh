@@ -1,1 +1,2 @@
- tôi là C
+tôi là bạn B và bạn C
+
